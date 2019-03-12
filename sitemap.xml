@@ -3,12 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elaine-chenma.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://elaine-chenma.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://elaine-chenma.github.io/</loc>
+    <loc>https://elaine-chenma.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
