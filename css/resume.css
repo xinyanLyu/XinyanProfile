@@ -1,7 +1,8 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #606060;
+
 }
 
 @media (min-width: 992px) {
@@ -37,9 +38,9 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Open Sans', serif;
   font-size: 1.35rem;
 }
 
@@ -48,7 +49,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #a27268;
 }
 
 .list-social-icons a .fa-lg {
@@ -60,7 +61,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #a27268;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -83,6 +84,7 @@ h2 {
     display: flex;
     margin: auto auto 0;
     padding: 0.5rem;
+
   }
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
@@ -102,9 +104,13 @@ h2 {
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item {
     display: block;
+
+
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
+    /* color: #F5F5F5; */
+    font-size: 1.2rem;
   }
 }
 
@@ -135,19 +141,20 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #0e2f44 !important;
+
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #a27268 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #a27268;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #a27268;
 }
 
 img {
